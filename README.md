@@ -1,1 +1,1 @@
-# Diamond_Price_Prediction
+# DiamondPricePrediction
